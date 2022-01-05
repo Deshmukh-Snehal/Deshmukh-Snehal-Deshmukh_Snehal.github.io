@@ -8102,6 +8102,9 @@ h4,
 h5,
 .h5 {
   font-size: 1.25rem;
+  padding-top: 30px;
+  margin-right: 19px;
+}
 }
 
 h6,
